@@ -4,7 +4,7 @@ A simple slot machine game built with JavaScript.
 
 ## Live Demo
 
-https://alexandrabalinskaiya.github.io/lr10/
+https://alexandrabalinskaiya.github.io/fruit-slot-machine/
 
 ## Description
 

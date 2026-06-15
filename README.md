@@ -55,4 +55,4 @@ After all attempts are used, the game automatically resets.
 
 ## Author
 
-Alexandra Balinska
+Oleksandra Balinska
